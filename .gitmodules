@@ -1,0 +1,3 @@
+[submodule "llm-basics"]
+	path = llm-basics
+	url = https://github.com/vivekvajipey/llm-basics.git
